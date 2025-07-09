@@ -14694,6 +14694,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         )
         .levelUpLearnset = sJynxLevelUpLearnset,
         .teachableLearnset = sJynxTeachableLearnset,
+        // .evolutions = EVOLUTION({EVO_ITEM, ITEM_CRYSTAL_HEART, SPECIES_VALCRYA}),
     },
 #endif //P_FAMILY_JYNX
 
